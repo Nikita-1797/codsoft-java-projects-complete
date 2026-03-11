@@ -1,4 +1,4 @@
-# Codsoft JPO Java Projects - Complete
+# Codsoft Java Projects - Complete
 
 This repository contains a **complete collection of Java projects** completed during my **Codsoft internship** as part of the JPO tasks. These projects were developed to demonstrate programming skills, problem-solving, and Java fundamentals.
 
